@@ -4,10 +4,10 @@ body {
 body main {
   margin: 0;
   padding: 0.8rem;
-  background-color: lightgray;
+  background-color: #c5320d;
 }
 body main h1 {
-  color: #2a8622;
+  color: #142ea3;
 }
 body main h1,
 body main article.browser {
@@ -18,7 +18,7 @@ body main article.browser {
   background: white;
 }
 body main article.browser h2 {
-  color: #2a8622;
+  color: #142ea3;
 }
 body main article.browser h2,
 body main article.browser p {
